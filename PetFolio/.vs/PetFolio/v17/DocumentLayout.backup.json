@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Downloads\\Git\\PetApi\\PetFolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC48730-3321-4904-9DCD-BF2730CA4DEB}|Petfolio.API\\Petfolio.API.csproj|e:\\downloads\\git\\petapi\\petfolio\\petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC48730-3321-4904-9DCD-BF2730CA4DEB}|Petfolio.API\\Petfolio.API.csproj|solutionrelative:petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D792D36E-E424-45C6-B129-45809F23570B}|Petfolio.Application\\Petfolio.Application.csproj|e:\\downloads\\git\\petapi\\petfolio\\petfolio.application\\usecase\\pet\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D792D36E-E424-45C6-B129-45809F23570B}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecase\\pet\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePetUseCase.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\PetApi\\PetFolio\\Petfolio.Application\\UseCase\\Pet\\Update\\UpdatePetUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCase\\Pet\\Update\\UpdatePetUseCase.cs",
+              "ToolTip": "E:\\Downloads\\Git\\PetApi\\PetFolio\\Petfolio.Application\\UseCase\\Pet\\Update\\UpdatePetUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCase\\Pet\\Update\\UpdatePetUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:36:15.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\PetApi\\PetFolio\\Petfolio.API\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "Petfolio.API\\Controllers\\PetController.cs",
+              "ToolTip": "E:\\Downloads\\Git\\PetApi\\PetFolio\\Petfolio.API\\Controllers\\PetController.cs",
+              "RelativeToolTip": "Petfolio.API\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:54:05.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
